@@ -48,7 +48,7 @@ async def send_final_message(title):
     await asyncio.sleep(3)
     quals = sorted(movie_cache[title], key=lambda x: int(x.replace('p','')))
     await bot.send_message(chat_id=DEST_CHANNEL,
-                           text=f"<b>{title}</b>\nAvailable Qualities: <code>{' / '.join(quals)}</code>\n\n✅ Added")
+                           text=f"<b>{title}</b>\nAvailable Qualities: <code>{' / '.join(quals)}</code>\n\n✅ Added On Website")
     movie_cache.pop(title, None)
     active_tasks.pop(title, None)
 
