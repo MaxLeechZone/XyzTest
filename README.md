@@ -1,2 +1,0 @@
-# XyzTest
-Gurudev
