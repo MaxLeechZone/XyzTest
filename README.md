@@ -1,16 +1,12 @@
-# 🎬 Telegram Movie Quality Merger Bot
+# Telegram Movie Quality Merger Bot
 
-A bot that listens for movie uploads in one channel, detects available quality, and posts to another channel.
+## 🚀 Deploy on Replit
 
----
-
-## 🚀 One-Click Deploy to Replit
-
-[![Deploy on Replit](https://replit.com/badge/github/MaxLeechZone/movie-quality-bot)](https://replit.com/github/MaxLeechZone/movie-quality-bot)
+[![Deploy on Replit](https://replit.com/badge/github/MaxLeechZone/XyzTest)](https://replit.com/github/MaxLeechZone/XyzTest)
 
 ---
 
-## 📥 Setup Environment Variables
+## 📝 Env Variables
 
-After deploying, go to the **Secrets (.env)** section and add these:
+Set in Replit under **Secrets (.env)**:
 
