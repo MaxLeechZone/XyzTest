@@ -1,5 +1,2 @@
 pyrogram
-re
-asyncio
-collections
-urllib.parse
+tgcrypto
